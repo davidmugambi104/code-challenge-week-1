@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+    background-image: url(dave.jpg);
+    color: azure;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#Input{
+    margin-top: 10em;
+}
